@@ -12,7 +12,7 @@
             marginTop: 20
           }}
         >
-          👋 Hello, I'm Dmitry - a web developer from Russia
+          👋 Hi, I'm a fullstack developer.
         </h1>
         <div id="badges">
           <a href="https://t.me/noChillOne">
